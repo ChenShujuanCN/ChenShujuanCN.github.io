@@ -23,7 +23,7 @@ My research interests include:
 - **3D Vision**: Point cloud processing, recognition, and related tasks.
 - **Physics-Informed Computer Vision**: PID control, Model Predictive Control (MPC), and other control strategies.
 
-<i>If you have any shared research interests or topics you'd like to chat about, please feel free to [email me](shujuanchen_fj@163.com). <u>I am always happy to explore potential collaborations and/or engage in insightful conversations.<u><i>
+<i>If you have any shared research interests or topics you'd like to chat about, please feel free to [email me](shujuanchen_fj@163.com). I’m always eager to connect over interesting ideas and would love to explore potential collaborations or dive into deeper discussions.<i>
 
 
 # 🔥 News
